@@ -1,0 +1,18 @@
+chess==1.11.2
+filelock @ file:///home/task_178170111626078/croot/filelock_1781703316158/work
+gmpy2 @ file:///home/task_176474799466805/conda-bld/gmpy2_1764748040727/work
+Jinja2 @ file:///croot/jinja2_1741710844255/work
+MarkupSafe @ file:///home/task_178239083592213/croot/markupsafe_1782390866578/work
+mkl-service==2.7.2
+mkl_fft @ file:///home/task_177730042096369/croot/mkl_fft_1777300464161/work
+mkl_random @ file:///home/task_178236946501460/croot/mkl_random_1782369492709/work
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1737039604450/work
+numpy @ file:///home/task_177619032023410/croot/numpy_and_numpy_base_1776190368994/work/dist/numpy-2.2.5-cp310-cp310-linux_x86_64.whl#sha256=0148211ba260b4bb27c3ceaa36d0a564fda110f5e80228fa1a30b81ba4e6f53b
+packaging==26.0
+python-chess==1.999
+PyYAML @ file:///home/task_176346546342115/conda-bld/pyyaml_1763465494987/work
+sympy @ file:///home/task_176476278707978/conda-bld/sympy_1764762918518/work
+torch==2.5.1
+triton==3.1.0
+typing_extensions @ file:///croot/typing_extensions_1756280817316/work
