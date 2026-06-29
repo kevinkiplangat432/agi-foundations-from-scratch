@@ -1,14 +1,14 @@
 # agi-foundations-from-scratch
 
-A step-by-step reimplementation of the algorithms behind AlphaGo, AlphaFold, and AlphaStar — the systems Google DeepMind built on the path toward general artificial intelligence.
+A step-by-step reimplementation of the algorithms behind AlphaGo, AlphaFold, and AlphaStar, the systems Google DeepMind built on the path toward general artificial intelligence.
 
-Built from research papers, from scratch, by a 20-year-old software engineering student in Nairobi, Kenya.
+Built from research papers, from scratch, by a 20-year-old software engineering and datascience student in Nairobi, Kenya.
 
 ---
 
 ## What this is
 
-DeepMind published the research papers behind their most celebrated systems. The algorithms are public. The ideas belong to science. This repo is an attempt to truly understand those ideas by building them — not importing a library, not following a tutorial, but reading the papers and writing the code.
+DeepMind published the research papers behind their most celebrated systems. The algorithms are public. The ideas belong to science. This repo is an attempt to truly understand those ideas by building them, not importing a library, not following a tutorial, but reading the papers and writing the code.
 
 The progression moves from the simplest possible game (Tic-tac-toe) to increasingly complex environments, each one introducing exactly one new layer of difficulty. The goal is not to reproduce DeepMind's compute scale. The goal is to reproduce the *learning dynamic* — an agent that genuinely improves through self-play.
 
